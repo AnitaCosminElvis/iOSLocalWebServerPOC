@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ConnectionHandler decodeFrame:]:ConnectionHandler.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "msg[0]">
+            </PersistentString>
+            <PersistentString
+               value = "msg[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ServerThread fetchMessage]:ServerThread.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "receivedMsgQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ConnectionHandler writeToStream:]:ConnectionHandler.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataBytes[6]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ConnectionHandler encodeFrame:]:ConnectionHandler.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "msg[3]">
+            </PersistentString>
+            <PersistentString
+               value = "msg[4]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
